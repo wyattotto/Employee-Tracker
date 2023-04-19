@@ -21,4 +21,6 @@
 - NPM -I
 - run node index.js to run the server
 
-
+## Video 
+- https://drive.google.com/file/d/118gTb0-7ZSQkAzwr5BbEvs62-1hhZSC1/view
+- I can figure out what this error is.
